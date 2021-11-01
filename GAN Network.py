@@ -342,5 +342,3 @@ for epoch in range(epochs):
         plt.axis('off')
         plt.imshow(viz_batch, cmap='gray')
         plt.show()
-
-"""#### The assignment is graded both manually and using auto-graded testcases."""
