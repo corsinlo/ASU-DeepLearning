@@ -1,4 +1,4 @@
-# ASU DeepLearning
+# ASU Deep Learning
 
 Repo of snippetts CNN samples for experimentation and behaviour from ASU Summer 21 CSE 598 Deep Learning class:
 
@@ -7,4 +7,4 @@ Repo of snippetts CNN samples for experimentation and behaviour from ASU Summer 
 - [CN Networks](https://github.com/corsinlo/ASU-DeepLearning/blob/main/CN%20Networks.py)
 
 
-(Reference material only):
+(Reference materials only):
